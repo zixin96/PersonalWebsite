@@ -1,6 +1,11 @@
 [book]
 title = "Zixin Zhang"
 author = "Zixin Zhang"
+description = "This is my personal website."
 language = "en"
 multilingual = false
 src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/zixin96"
+git-repository-icon = "fa-github"
