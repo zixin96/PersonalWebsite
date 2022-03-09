@@ -1,5 +1,6 @@
 [book]
-authors = []
+title = "Zixin Zhang"
+author = "Zixin Zhang"
 language = "en"
 multilingual = false
 src = "src"
