@@ -1,8 +1,12 @@
 # Summary
 
-[Home Page](HomePage.md)
-[Another Page](more/AnotherPage.md)
-[Hello World](HelloWorld.md)
-[CUDA C++ Notes](CUDAC.md)
+[Introduction](Introduction.md)
 
-- [Chapter 1](./chapter_1.md)
+# Projects
+
+- [Example Project 1](projects/p1.md)
+- [Example Project 2](projects/p2.md)
+
+---
+
+[Resume](contact.md)
