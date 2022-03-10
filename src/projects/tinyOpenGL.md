@@ -160,6 +160,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki)
 - [Scratchapixel](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation)
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+- [LearnOpenGL](https://learnopengl.com/Model-Loading/Assimp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
