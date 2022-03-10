@@ -33,7 +33,7 @@
 
 This project is a software rasterizer that simulates how OpenGL works under the hood. My aim is to have a comprehensive understanding of the graphics pipeline through programming everything from scratch. 
 
-In order to focus on implementing rasterization and graphics pipeline, the following third-party libraries are used to attract away some irrelevant aspects:
+In order to focus on my efforts on implementing rasterization and graphics pipeline, the following third-party libraries are used to attract away some irrelevant aspects:
 
 - Math library ([glm](https://github.com/g-truc/glm))
 - Model loading ([assimp](https://github.com/assimp/assimp))
@@ -157,16 +157,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Malven's Grid Cheatsheet](https://grid.malven.co/)
-- [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
-- [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki)
+- [Scratchapixel](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation)
+- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
