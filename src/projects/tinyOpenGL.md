@@ -31,7 +31,7 @@
 
 <center><img src="https://raw.githubusercontent.com/zixin96/NotePic/main/image-20220309210511981.png" alt="image-20220309210511981" style="zoom:67%;" /></center>
 
-This is a software rasterizer that simulates how OpenGL works under the hood. My aim for this hobby project is to have a comprehensive understanding of the graphics pipeline through programming everything from scratch.  
+This project is a software rasterizer that simulates how OpenGL works under the hood. My aim is to have a comprehensive understanding of the graphics pipeline through programming everything from scratch. 
 
 In order to focus on implementing rasterization and graphics pipeline, the following third-party libraries are used to attract away some irrelevant aspects:
 
