@@ -1,6 +1,7 @@
-# tinyOpenGL - A Software Rasterizer
+# hackPathTracer - From NAND to Path Tracer
 
 <!-- TABLE OF CONTENTS -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,65 +26,14 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-<center><img src="https://raw.githubusercontent.com/zixin96/NotePic/main/image-20220309210511981.png" alt="image-20220309210511981" style="zoom:67%;" /></center>
-
-This project is a software rasterizer that simulates how OpenGL works under the hood. My aim is to have a comprehensive understanding of the graphics pipeline through programming everything from scratch. 
-
-In order to focus on my efforts on implementing rasterization and graphics pipeline, the following third-party libraries are used to attract away some irrelevant aspects:
-
-- Math library ([glm](https://github.com/g-truc/glm))
-- Model loading ([assimp](https://github.com/assimp/assimp))
-- Pixel and image manipulation ([TGAImage](https://github.com/ssloy/tinyrenderer/blob/master/tgaimage.h))
+The ultimate way to understand how computers work is to build one from scratch. Following the amazing [book](https://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken, I've built a general-purpose 16-bit computer system named Hack, capable of running a path tracer written in a language named Jack. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-Another funny thing I notice is that since fragment and vertex shaders are written completely in C++, debugging shaders have never been so easy :joy:. 
-
-03/10/2022: Specular mapping completes with issues. 
-
-<img src="https://raw.githubusercontent.com/zixin96/NotePic/main/image-20220310194259516.png" alt="image-20220310194259516" style="zoom:33%;" />
-
-Compared with demo:
-
- <img src="https://raw.githubusercontent.com/zixin96/NotePic/main/image-20220310194325493.png" alt="image-20220310194325493" style="zoom:33%;" />
-
-Kinda weird. Maybe come back to this. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Built With
 
@@ -112,6 +62,7 @@ To get a local copy up and running follow these simple example steps.
 This is an example of how to list things you need to use the software and how to install them.
 
 - npm
+
   ```sh
   npm install npm@latest -g
   ```
@@ -121,15 +72,21 @@ This is an example of how to list things you need to use the software and how to
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
+
 2. Clone the repo
+
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
+
 3. Install NPM packages
+
    ```sh
    npm install
    ```
+
 4. Enter your API in `config.js`
+
    ```js
    const API_KEY = "ENTER YOUR API";
    ```
